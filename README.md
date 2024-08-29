@@ -10,7 +10,7 @@
 - **Innovative JavaScript Projects:** Whether it’s a new library, framework, or web application.
 - **AI-driven Applications:** Projects that leverage machine learning for real-world problems.
 - 📫 How to reach me:
-- Email: [michel.ferrao@example.com](mailto:michel.ferrao@example.com)
+- Email: [michelferrao@gmail.com](mailto:michelferraorj@gmail.com)
 - LinkedIn: [Michel Ferrao](https://www.linkedin.com/in/michel-ferrao/)
 - Portfolio: [www.michelportfolio.com](https://www.michelportfolio.com)
 - 😄 Pronouns: ![Michel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichelFerrao&show_icons=true)
