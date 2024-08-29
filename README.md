@@ -11,7 +11,7 @@
 - **AI-driven Applications:** Projects that leverage machine learning for real-world problems.
 - 📫 How to reach me:
 - Email: [michelferrao@gmail.com](mailto:michelferraorj@gmail.com)
-- LinkedIn: [Michel Ferrao](https://www.linkedin.com/in/michel-ferrao/)
+- LinkedIn: [Michel Ferrao](https://www.linkedin.com/in/michel-de-carvalho-ferr%C3%A3o-silva-a79935a2/)
 - Portfolio: [www.michelportfolio.com](https://www.michelportfolio.com)
 - 😄 Pronouns: ![Michel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichelFerrao&show_icons=true)
 - ⚡ Fun fact: I once built a chatbot that can play chess!
