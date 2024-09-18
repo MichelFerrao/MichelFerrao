@@ -26,7 +26,11 @@ Estou agora canalizando minha paixão por inovação e minha experiência técni
 | Módulo 1 - Preparando-se Para Uma Oportunidade Internacional |  [Certificado](https://hermes.dio.me/certificates/IZH8WIGJ.pdf)
 | Formação Lógica de Programação |  [Certificado](https://hermes.dio.me/certificates/90NYUCOJ.pdf)
 
+-----
+![Michel Ferrão GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+-----
+
 - LinkedIn: [Acesse o meu Linkedin](https://www.linkedin.com/in/michel-de-carvalho-ferr%C3%A3o-silva-a79935a2/)
 - Email: [michelferrao@gmail.com](mailto:michelferraorj@gmail.com)
 - Portfolio: [www.michelportfolio.com](https://github.com/MichelFerrao?tab=repositories)
-- 😄 GitHub: ![Michel Ferrao](https://github-readme-stats.vercel.app/api?username=MichelFerrao&show_icons=true)
