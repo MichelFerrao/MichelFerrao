@@ -19,7 +19,7 @@ Estou agora canalizando minha paixão por inovação e minha experiência técni
 
 | Cursos | Certificados |
 |------- | ------------ |
-| Microsoft Copilot AI |  [Certificado](hrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://hermes.dio.me/certificates/PFH8QWQJ.pdf)
+| Microsoft Copilot AI |  [Certificado](https://hermes.dio.me/certificates/PFH8QWQJ.pdf)
 
 
 - LinkedIn: [Acesse o meu Linkedin](https://www.linkedin.com/in/michel-de-carvalho-ferr%C3%A3o-silva-a79935a2/)
