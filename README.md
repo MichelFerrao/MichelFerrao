@@ -8,7 +8,7 @@ Estou agora canalizando minha paixão por inovação e minha experiência técni
 
 ### Minhas Tecnologias
 
-<img src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px">
 
 - LinkedIn: [Acesse o meu Linkedin](https://www.linkedin.com/in/michel-de-carvalho-ferr%C3%A3o-silva-a79935a2/)
 - Email: [michelferrao@gmail.com](mailto:michelferraorj@gmail.com)
