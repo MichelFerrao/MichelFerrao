@@ -6,6 +6,10 @@
 
 Estou agora canalizando minha paixão por inovação e minha experiência técnica para um novo desafio: tornar-me um programador fullstack. Essa transição reflete minha busca constante por evolução profissional, com o objetivo de integrar conhecimentos em programação com minha experiência em finanças. Acredito que essa combinação permitirá criar soluções inovadoras e eficientes, explorando novas oportunidades no universo da tecnologia.
 
+### Minhas Tecnologias
+
+<img src=<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px">
+
 - LinkedIn: [Acesse o meu Linkedin](https://www.linkedin.com/in/michel-de-carvalho-ferr%C3%A3o-silva-a79935a2/)
 - Email: [michelferrao@gmail.com](mailto:michelferraorj@gmail.com)
 - Portfolio: [www.michelportfolio.com](https://github.com/MichelFerrao?tab=repositories)
