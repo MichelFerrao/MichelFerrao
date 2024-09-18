@@ -1,8 +1,8 @@
-<center><h1> Hello World, I'm Michel Ferrão👋 </h1></center>
+<center><h1> Sejam Bem-Vindos!👋 </h1></center>
 
 ![Eu Programando!](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" style="max-width: 100%;">Olá, sou Michel Ferrão, um desenvolvedor Fullstack apaixonado com forte foco em JavaScript e IA. Adoro construir aplicativos da web escaláveis ​​e explorar as mais recentes inovações tecnológicas.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" style="max-width: 100%;">Olá, sou Michel Ferrão, um desenvolvedor Fullstack apaixonado com forte foco em JavaScript e IA.
 
 
 <!-- Cabeçalhos -->
@@ -11,7 +11,7 @@
 
 
 
-- 👋 Hi, I’m Michel Ferrão, a passionate Fullstack Developer with a strong focus on JavaScript and AI. I love building scalable web applications and exploring the latest in tech innovations.
+ 
 - 👀 I’m interested in:
 - **Web Development:** Building responsive and user-friendly applications.
 - **Artificial Intelligence:** Implementing machine learning models and exploring neural networks.
