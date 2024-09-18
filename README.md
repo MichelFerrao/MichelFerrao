@@ -2,10 +2,7 @@
 
 ![Eu Programando!](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" style="max-width: 100%;">Olá, sou Michel Ferrão, um desenvolvedor Fullstack apaixonado com forte foco em JavaScript e IA.
-
-
-<!-- Cabeçalhos -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" style="max-width: 100%;">Olá, sou Michel Ferrão. Estou me dedicando intensamente aos estudos para me tornar um programador fullstack de excelência e transformar minha carreira.
 
 
 
