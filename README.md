@@ -2,7 +2,7 @@
 
 ![Eu Programando!](https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif)
 
-!(https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png)Olá, sou Michel Ferrão, um desenvolvedor Fullstack apaixonado com forte foco em JavaScript e IA. Adoro construir aplicativos da web escaláveis ​​e explorar as mais recentes inovações tecnológicas.
+![](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png)Olá, sou Michel Ferrão, um desenvolvedor Fullstack apaixonado com forte foco em JavaScript e IA. Adoro construir aplicativos da web escaláveis ​​e explorar as mais recentes inovações tecnológicas.
 
 
 <!-- Cabeçalhos -->
