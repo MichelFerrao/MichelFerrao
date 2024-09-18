@@ -20,7 +20,7 @@ Estou agora canalizando minha paixão por inovação e minha experiência técni
 | Cursos | Certificados |
 |------- | ------------ |
 | Microsoft Copilot AI |  [Certificado](https://hermes.dio.me/certificates/PFH8QWQJ.pdf)
-
+| Formação JavaScript Developer |  [Certificado](https://hermes.dio.me/certificates/3J0SENMD.pdf)
 
 - LinkedIn: [Acesse o meu Linkedin](https://www.linkedin.com/in/michel-de-carvalho-ferr%C3%A3o-silva-a79935a2/)
 - Email: [michelferrao@gmail.com](mailto:michelferraorj@gmail.com)
