@@ -27,7 +27,7 @@ Estou agora canalizando minha paixão por inovação e minha experiência técni
 | Formação Lógica de Programação |  [Certificado](https://hermes.dio.me/certificates/90NYUCOJ.pdf)
 
 -----
-![Michel Ferrão GitHub stats](https://github-readme-stats.vercel.app/api?username=michelferrao&show_icons=true&theme=radical)
+![Michel Ferrão GitHub stats](https://github-readme-stats.vercel.app/api?username=michelferrao&show_icons=true&theme=dark)
 
 -----
 
