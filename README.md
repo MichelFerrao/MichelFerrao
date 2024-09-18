@@ -1,11 +1,5 @@
-
-
+<center><h1> Hello World, I'm Michel Ferrão👋 </h1></center>
 <!-- Cabeçalhos -->
-
-
-
-<center><h1>Hello World, I'm Michel Ferrão👋</h1></center>
-
 
 
 
