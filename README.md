@@ -32,5 +32,4 @@ Estou agora canalizando minha paixão por inovação e minha experiência técni
 -----
 
 - LinkedIn: [Acesse o meu Linkedin](https://www.linkedin.com/in/michel-de-carvalho-ferr%C3%A3o-silva-a79935a2/)
-- Email: [michelferrao@gmail.com](mailto:michelferraorj@gmail.com)
-- Portfolio: [www.michelportfolio.com](https://github.com/MichelFerrao?tab=repositories)
+- Email: [michelferraorj@gmail.com](mailto:michelferraorj@gmail.com)
