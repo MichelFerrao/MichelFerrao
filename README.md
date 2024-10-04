@@ -14,11 +14,14 @@ Estou agora canalizando minha paixão por inovação e minha experiência técni
 ### Minhas Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50px"/>
+          
 
 -----
 
 | Cursos | Certificados |
 |------- | ------------ |
+| Formação Python Fundamentals |  [Certificado](https://hermes.dio.me/certificates/U1S6QO6F.pdf)
 | Microsoft Copilot AI |  [Certificado](https://hermes.dio.me/certificates/PFH8QWQJ.pdf)
 | Formação JavaScript Developer |  [Certificado](https://hermes.dio.me/certificates/3J0SENMD.pdf)
 | Formação CSS Web Developer |  [Certificado](https://hermes.dio.me/certificates/4ATARGXO.pdf)
@@ -26,7 +29,6 @@ Estou agora canalizando minha paixão por inovação e minha experiência técni
 | Módulo 1 - Preparando-se Para Uma Oportunidade Internacional |  [Certificado](https://hermes.dio.me/certificates/IZH8WIGJ.pdf)
 | Formação Lógica de Programação |  [Certificado](https://hermes.dio.me/certificates/90NYUCOJ.pdf)
 | Formação Github Certification |  [Certificado](https://hermes.dio.me/certificates/PD2SONNH.pdf)
-| Formação Python Fundamentals |  [Certificado](https://hermes.dio.me/certificates/U1S6QO6F.pdf)
 
 -----
 ![Michel Ferrão GitHub stats](https://github-readme-stats.vercel.app/api?username=michelferrao&show_icons=true&theme=dark)
