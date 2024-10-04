@@ -26,6 +26,7 @@ Estou agora canalizando minha paixão por inovação e minha experiência técni
 | Módulo 1 - Preparando-se Para Uma Oportunidade Internacional |  [Certificado](https://hermes.dio.me/certificates/IZH8WIGJ.pdf)
 | Formação Lógica de Programação |  [Certificado](https://hermes.dio.me/certificates/90NYUCOJ.pdf)
 | Formação Github Certification |  [Certificado](https://hermes.dio.me/certificates/PD2SONNH.pdf)
+| Formação Python Fundamentals |  [Certificado](https://hermes.dio.me/certificates/U1S6QO6F.pdf)
 
 -----
 ![Michel Ferrão GitHub stats](https://github-readme-stats.vercel.app/api?username=michelferrao&show_icons=true&theme=dark)
