@@ -21,6 +21,7 @@ Estou agora canalizando minha paixão por inovação e minha experiência técni
 
 | Cursos | Certificados |
 |------- | ------------ |
+| GFT Start #6 - Lógica de Programação |  [Certificado](https://hermes.dio.me/certificates/UJ3YVIMF.pdf)
 | Formação Python Fundamentals |  [Certificado](https://hermes.dio.me/certificates/U1S6QO6F.pdf)
 | Microsoft Copilot AI |  [Certificado](https://hermes.dio.me/certificates/PFH8QWQJ.pdf)
 | Formação JavaScript Developer |  [Certificado](https://hermes.dio.me/certificates/3J0SENMD.pdf)
